@@ -5,6 +5,8 @@ description: Bacterial microfossils from the Apex Formation in Australia, dated 
 file: /courses/12-517-dynamics-of-complex-systems-biological-and-environmental-coevolution-preceding-the-cambrian-explosion-spring-2005/a050ca9153f9d94c839795df0684c4a9_apex_microfossils.jpg
 file_size: 57815
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
